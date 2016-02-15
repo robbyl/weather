@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Whether</name>
+<widget id="com.wadau.wheather" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Wheather</name>
     <description>
-        A simple whether app.
+        A simple wheather app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="wadau@example.com" href="http://phonegap.com">
         Wadau Team
     </author>
     <content src="index.html" />
